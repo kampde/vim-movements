@@ -30,6 +30,8 @@ What movements can you do with regular movement keys?
 * next character "u" in this line (`fu`, "find u", works with any character)
 * before next character "u" in this line (`tu`, "til u", works with any
   character)
+* a number before the command repeats the command that many times. (`5l` goes right
+  five positions, `4rX` replaces 4 characters with `X`)
 
 Movements with visual mode (ie selecting text)
 ==============================================
@@ -62,6 +64,9 @@ cursor position, act on the content on parentheses or braces or html tags
   * `ca)`
   * `da}`
   * ...
+
+Repeating a command: dot (`.`)
+==============================
 
 Nice Stack Overflow documentation
 =================================
