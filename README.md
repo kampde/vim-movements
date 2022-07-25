@@ -24,6 +24,7 @@ What movements can you do with regular movement keys?
 * go to next word (`w`) / WORD (`W`)
 * beginning of current/previous word (`b`) / WORD (`B`)
 * end of current/next word (`e`) / WORD (`E`)
+* go to matching opening/closing parentheses/bracket/square bracket (`%`)
 * go to next paragraph (`}`), beginning of current/previous paragraph (`{`)
 * also multiplied. So you can say three words forward (`3w`) or 8 lines up (`8k`).
 * next character "u" in this line (`fu`, "find u", works with any character)
